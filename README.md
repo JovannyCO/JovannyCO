@@ -65,7 +65,7 @@ Me especializo en integración de Picking, WooCommerce, Facturación Electrónic
 - Gestión de proyectos con GitHub Projects
 - Comunicación efectiva con equipos multidisciplinarios
 - Documentación técnica detallada
-- Mentoría de desarrolladores junior
+- Mentoría de programadores junior del SENA
 
 ## 🚴‍♂️ Más Allá del Código
 
