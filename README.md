@@ -1,31 +1,32 @@
 # 👋 ¡Hola! Soy Jovanny Medina Cifuentes
 
-> 👨‍💻 Desarrollador Backend Especializado en Soluciones Empresariales | 🧾 Experto en Facturación Electrónica DIAN | ☁️ Arquitecto Cloud (GCP & AWS)
+> 👨‍💻 Desarrollador de Software Especializado en Soluciones Empresariales
+
+> 🧾 Amplia experiencia en Picking y Facturación Electrónica 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=JovannyCO)
 
 ## 💼 Resumen Profesional
 
-Desarrollador backend con experiencia en la optimización de procesos empresariales mediante soluciones tecnológicas innovadoras. Especializado en integración de sistemas, facturación electrónica y arquitecturas cloud eficientes.
+Me especializo en integración de Picking, WooCommerce, Facturación Electrónica y arquitecturas cloud costo eficientes.
 
 ### 🎯 Logros Principales
 
 | Área | Métrica | Resultado |
 |------|----------|-----------|
-| Base de Datos | Optimización de Lecturas | Reducción del 90% |
-| Facturación DIAN | Tiempo de Firma XML | 8 segundos |
-| E-commerce | Gestión de Inventario | Tiempo real |
-| Cloud | Costos Infraestructura | Optimización AWS |
+| Caché | Optimización de Lecturas a base de datos | Nivel Función, Storage, CDN, Navegador |
+| Rápida Facturación DIAN | Emisión - Presentación PDF en pantalla | 8 segundos (incluyendo la creación del adquiriente con solo 3 datos) |
+| WooCommerce | Gestión de Inventario en Tiempo real | Conectado a World Office |
+| Cloud | Costos Infraestructura | Híbridos AWS - GCP |
 
 ## 🛠️ Proyectos Destacados
 
 ### Integración E-commerce y ERP
-- **Objetivo**: Sincronización WooCommerce - World Office
+- **Objetivo**: Sincronización WooCommerce - World Office (Software contable colombiano)
 - **Tecnologías**: Firebase, Node.js
 - **Resultados**: 
   - Gestión de inventario en tiempo real
@@ -48,15 +49,13 @@ Desarrollador backend con experiencia en la optimización de procesos empresaria
 
 | Categoría | Habilidades |
 |-----------|-------------|
-| Backend | Node.js, Express, NestJS |
-| Bases de Datos | SQL Server, Firebase, MongoDB |
+| Backend | Node.js |
 | Cloud | GCP, AWS, Serverless |
-| DevOps | CI/CD, Docker, Git |
-| Metodologías | Agile, Scrum |
+| Bases de Datos | SQL Server (WorldOffice), Firestore, Firebase Realtime |
+| Metodologías | Agile, Kanban |
 
 ## 🎓 Formación Continua
 
-- Certificaciones cloud (GCP & AWS)
 - Desarrollo backend avanzado
 - Arquitecturas serverless
 - Inteligencia Artificial aplicada
@@ -72,9 +71,6 @@ Desarrollador backend con experiencia en la optimización de procesos empresaria
 
 Apasionado del ciclismo (ruta y MTB), encuentro en este deporte una fuente de inspiración para mantener un equilibrio entre la innovación tecnológica y el bienestar personal.
 
-## 📊 Estadísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JovannyCO&show_icons=true&theme=dark)
 
 ## 📞 Contacto
 
