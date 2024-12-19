@@ -83,9 +83,8 @@
 
 ### Trofeos
 
-
 [![Trophy](https://github-profile-trophy.vercel.app/?username=JovannyCO)](https://github.com/JovannyCO)
-```
+
 
 ### Métricas de Actividad
 
