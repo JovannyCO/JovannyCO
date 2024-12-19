@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jovanny Medina Cifuentes
 
-> 👨‍💻 Desarrollador de Software Especializado en Soluciones Empresariales
+> 👨‍💻 Desarrollador de Software Especializado en Soluciones Empresariales en Colombia
 
 > 🧾 Amplia experiencia en Picking y Facturación Electrónica 
 
