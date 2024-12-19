@@ -2,7 +2,12 @@
 
 > 👨‍💻 Desarrollador de Software Backend | 🧾 Facturación Electrónica DIAN | ☁️ Soluciones Cloud (GCP & AWS)
 
-![Banner](https://img.shields.io/badge/Jovanny_Medina-Backend_Developer-darkgreen)
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ## 📖 Acerca de mí
 
@@ -10,17 +15,17 @@ Soy un desarrollador de software backend con una sólida experiencia en la creac
 
 ### 🛠️ Proyectos Destacados
 
-- **Integración WooCommerce - World Office**: Desarrollé una solución que conecta WooCommerce con World Office, permitiendo una gestión de inventarios en tiempo real y optimizando el proceso de picking en almacenes con miles de productos. :contentReference[oaicite:0]{index=0}
+- **Integración WooCommerce - World Office - Firebase**: Desarrollo soluciones que conectan WooCommerce con World Office (software colombiano de contabilidad), permitiendo la gestión de inventarios en tiempo real y optimizando el proceso de picking en almacenes con miles de productos.
 
-- **Facturación Electrónica para la DIAN**: Implementé un sistema que facilita la firma de documentos XML para la DIAN en menos de 8 segundos, utilizando solo tres datos del cliente, mejorando significativamente la eficiencia en la facturación electrónica. :contentReference[oaicite:1]{index=1}
+- **Facturación Electrónica para la DIAN**: Implemento sistemas que agilizan la firma de documentos XML para la DIAN en menos de 8 segundos (creando con solo tres datos al adquiriente), lo que mejora significativamente la eficiencia en la facturación electrónica.  
 
 ### 🌐 Soluciones Cloud
 
-Tengo experiencia en la implementación de soluciones en la nube utilizando plataformas como Google Cloud Platform (GCP) y Amazon Web Services (AWS). He trabajado en la configuración de entornos personalizados, como instancias de Amazon Linux 2023, optimizando configuraciones para WordPress, emuladores y Node.js. :contentReference[oaicite:2]{index=2}
+Tengo experiencias en la implementación de soluciones en la nube utilizando plataformas como Google Cloud Platform (GCP) y Amazon Web Services (AWS). Se me facilita la configuración de entornos con instancias de Amazon Linux 2023, optimizado para WordPress de alta concurrencia a bajo costo.
 
 ### 📈 Optimización de Bases de Datos
 
-He logrado reducir las lecturas en bases de datos en más del 90%, mejorando el rendimiento de las aplicaciones y asegurando una respuesta rápida y eficiente en procesos críticos como el picking y la facturación. :contentReference[oaicite:3]{index=3}
+Siempre trabajo reduciendo las lecturas a base de datos, mejorando el rendimiento de las aplicaciones y asegurando una respuesta rápida y eficiente en procesos críticos como el picking y la facturación.
 
 ### 🤝 Colaboración y Trabajo en Equipo
 
@@ -28,19 +33,12 @@ Valoro la colaboración en equipos ágiles y mantengo una comunicación clara a 
 
 ### 🎓 Educación y Aprendizaje Continuo
 
-Me mantengo actualizado con las últimas innovaciones en tecnologías cloud y desarrollo backend, buscando constantemente formas de mejorar cada aspecto del ciclo logístico y financiero. :contentReference[oaicite:5]{index=5}
+Me mantengo actualizado con las últimas innovaciones en tecnologías cloud, desarrollo backend e IA, buscando constantemente formas de mejorar cada aspecto del ciclo logístico y financiero. 
 
 ### 🚴‍♂️ Intereses Personales
 
-Fuera del ámbito profesional, disfruto del ciclismo, ya sea en ruta o MTB, lo que me ayuda a mantener una mente fresca y generar nuevas ideas para optimizar procesos. :contentReference[oaicite:6]{index=6}
+Fuera del ámbito profesional, disfruto del ciclismo, ya sea en ruta o MTB, lo que me ayuda a mantener una mente fresca y generar nuevas ideas para optimizar procesos.
 
-## 🚀 Tecnologías y Herramientas
-
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ## 📊 Estadísticas de GitHub
 
@@ -48,12 +46,12 @@ Fuera del ámbito profesional, disfruto del ciclismo, ya sea en ruta o MTB, lo q
 
 ## 🎥 Videos y Presentaciones
 
-- **Kit de Supervivencia VUE: Errores, DevTools y Buenas Prácticas**: Una presentación donde comparto consejos y herramientas para mejorar el desarrollo con Vue.js. :contentReference[oaicite:7]{index=7}
+- **Kit de Supervivencia VUE: Errores, DevTools y Buenas Prácticas**: Una presentación donde comparto consejos y herramientas para mejorar el desarrollo con Vue.js. 
 
 ## 🌟 Logros Destacados
 
 - ⚡ Reducción del 90% en lecturas de base de datos.
-- 🧾 Firma de documentos XML DIAN en 8 segundos.
+- 🧾 Firma de documentos XML DIAN en 8 segundos creando el tercero (adquiriente).
 - 📦 Optimización de picking en almacenes.
 
 ---
@@ -62,7 +60,7 @@ Fuera del ámbito profesional, disfruto del ciclismo, ya sea en ruta o MTB, lo q
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jovannyCO-blue)](https://www.linkedin.com/in/jovannyCO/)
 [![Email](https://img.shields.io/badge/Email-proyectos%40Jovanny.CO-red)](mailto:proyectos@Jovanny.CO)
-[![YouTube](https://img.shields.io/badge/YouTube-JovannyCO-red)](https://www.youtube.com/@Jovanny-CO)
+
 
 ## 📚 Recursos Adicionales
 
