@@ -76,24 +76,24 @@
 
 ### Estadísticas
 
-```markdown
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovannyCO&layout=compact)](https://github.com/JovannyCO)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JovannyCO)](https://github.com/JovannyCO)
-```
+
 
 ### Trofeos
 
-```markdown
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=JovannyCO)](https://github.com/JovannyCO)
 ```
 
 ### Métricas de Actividad
 
-```markdown
+
 [![Metrics](https://metrics.lecoq.io/JovannyCO)](https://github.com/JovannyCO)
-```
+
 
 ### Visitas al Perfil
 
-```markdown
+
 ![Profile Views](https://komarev.com/ghpvc/?username=JovannyCO)
