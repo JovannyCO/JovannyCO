@@ -8,6 +8,7 @@
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=JovannyCO)
 
 ## 📖 Acerca de mí
 
@@ -73,10 +74,3 @@ Fuera del ámbito profesional, disfruto del ciclismo, ya sea en ruta o MTB, lo q
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=JovannyCO)](https://github.com/JovannyCO)
 
-### Métricas de Actividad
-
-[![Metrics](https://metrics.lecoq.io/JovannyCO)](https://github.com/JovannyCO)
-
-### Visitas al Perfil
-
-![Profile Views](https://komarev.com/ghpvc/?username=JovannyCO)
