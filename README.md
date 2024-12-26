@@ -2,7 +2,7 @@
 
 > 👨‍💻 Desarrollador de Software - Aplicaciones web empresariales en Colombia
 
-> 🧾 Amplia experiencia en Picking y Facturación Electrónica 
+> 🧾 Amplias experiencias en Picking y Facturación Electrónica 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -42,8 +42,8 @@ Desarrollos que integran de Picking, WooCommerce, Facturación Electrónica y ar
 
 | Plataforma | Especialidades |
 |------------|----------------|
-| GCP | • Cloud Functions<br>• Firebase<br>• Cloud Run |
-| AWS | • EC2 (Amazon Linux 2023)<br>• WordPress Optimizado<br>• Alta Disponibilidad |
+| GCP | • App Check<br>• Authentication<br>• Cloud Firestore<br>• Cloud Functions<br>• Hosting<br>• Realtime Database<br>• Storage<br>• Analytics |
+| AWS | • Certificate Manager<br>• CloudFront<br>• S3<br>• IAM<br>• Route 53<br>• RDS<br>• EC2 (Amazon Linux 2023)<br>• WordPress de Alta Disponibilidad |
 
 ## 💡 Competencias Técnicas
 
@@ -51,7 +51,7 @@ Desarrollos que integran de Picking, WooCommerce, Facturación Electrónica y ar
 |-----------|-------------|
 | Backend | Node.js |
 | Cloud | GCP, AWS, Serverless |
-| Bases de Datos | SQL Server (WorldOffice), Firestore, Firebase Realtime |
+| Bases de Datos | • SQL Server _(World Office Software Contable Colombiano)_<br>• MS Access - _VBA_<br>• Firestore<br>• Firebase Realtime <br>• MySQL - MariaDB _(WordPress)_ |
 | Metodologías | Agile, Kanban |
 
 ## 🎓 Formación Continua
@@ -74,7 +74,7 @@ Apasionado del ciclismo (ruta y MTB), encuentro en este deporte una fuente de in
 
 ## 📞 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jovannyCO-blue)](https://www.linkedin.com/in/jovannyCO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JovannyCO-blue)](https://www.linkedin.com/in/jovannyCO/)
 [![Email](https://img.shields.io/badge/Email-proyectos%40Jovanny.CO-red)](mailto:proyectos@Jovanny.CO)
 
 ## 📈 Actividad en GitHub
