@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jovanny Medina Cifuentes
 
-> 👨‍💻 Desarrollador de Software Especializado en Soluciones Empresariales en Colombia
+> 👨‍💻 Desarrollador de Software - Aplicaciones web empresariales en Colombia
 
 > 🧾 Amplia experiencia en Picking y Facturación Electrónica 
 
@@ -12,7 +12,7 @@
 
 ## 💼 Resumen Profesional
 
-Me especializo en integración de Picking, WooCommerce, Facturación Electrónica y arquitecturas cloud costo eficientes.
+Desarrollos que integran de Picking, WooCommerce, Facturación Electrónica y arquitecturas cloud costo eficientes.
 
 ### 🎯 Logros Principales
 
