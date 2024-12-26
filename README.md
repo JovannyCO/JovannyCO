@@ -11,12 +11,12 @@
 
 ## 💼 Resumen Profesional
 
-Desarrollos en empresas que integran de Picking, WooCommerce, Facturación Electrónica y arquitecturas cloud costo eficientes.
+Actualemente desarrollo aplicaciones para empresas que integran  _(con ODBC)_ Picking, WooCommerce, Facturación Electrónica,  con arquitecturas cloud costo eficientes.
 
-> En mis inicios _(hace más de 25 años)_, desarrollé aplicaciones de escritorio para pedidos en MS Access + SQL Server [InfoGAS] e implementé durante 9 años en los Call Center de empresas de GLP en Colombia (Colgas, Asogas, Unigas, Lidagas, Gas Norte, Doragas, Cocigas, etc.). [InfoGAS] Fue pionero en ennvío de SMS _(con Avantel y luego a través de internet con datáfonos Verifone)_ Llevando las entregas a menos de 1 hora (en aquella época) en las principales ciudades de Colombia como Bogotá, Cali, Medellín, Manizales, Pereira, Florencia, Tunja, Apartadó, etc..
+> En mis inicios _(hace más de 25 años)_, desarrollé una aplicación de escritorio para pedidos en MS Access + SQL Server: [InfoGAS] y la actualicé e implementé durante 9 años en los Call Center de empresas de GLP en Colombia (Colgas, Asogas, Unigas, Lidagas, Gas Norte, Doragas, Cocigas, etc.). [InfoGAS] Fue pionero en ennvío de pedidos inmediatos al vehículo de reparto con SMS _(con Avantel y luego a través de internet con datáfonos Verifone, que imprimía al instante el pedido)_ facilitando las entregas a menos de 1 hora _(en aquella época)_ en las principales ciudades de Colombia como Bogotá, Cali, Medellín, Manizales, Pereira, Florencia, Tunja, Apartadó, etc..
 
 
-## 🌐 Experiencia Cloud
+## 🌐 Experiencia Cloud - Actualmente
 
 | Plataforma | Especialidades |
 |------------|----------------|
