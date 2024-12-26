@@ -1,8 +1,7 @@
 # 👋 ¡Hola! Soy Jovanny Medina Cifuentes
 
-> 👨‍💻 Desarrollador de Software - Aplicaciones web empresariales en Colombia
+## 👨‍💻 Desarrollador de Software - Aplicaciones empresariales en Colombia
 
-> 🧾 Amplias experiencias en Picking y Facturación Electrónica 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -12,31 +11,10 @@
 
 ## 💼 Resumen Profesional
 
-Desarrollos que integran de Picking, WooCommerce, Facturación Electrónica y arquitecturas cloud costo eficientes.
+Desarrollos en empresas que integran de Picking, WooCommerce, Facturación Electrónica y arquitecturas cloud costo eficientes.
 
-### 🎯 Logros Principales
+> En mis inicios _(hace más de 25 años)_, desarrollé aplicaciones de escritorio para pedidos en MS Access + SQL Server [InfoGAS] e implementé durante 9 años en los Call Center de empresas de GLP en Colombia (Colgas, Asogas, Unigas, Lidagas, Gas Norte, Doragas, Cocigas, etc.). [InfoGAS] Fue pionero en ennvío de SMS _(con Avantel y luego a través de internet con datáfonos Verifone)_ Llevando las entregas a menos de 1 hora (en aquella época) en las principales ciudades de Colombia como Bogotá, Cali, Medellín, Manizales, Pereira, Florencia, Tunja, Apartadó, etc..
 
-| Área | Métrica | Resultado |
-|------|----------|-----------|
-| Caché | Optimización de Lecturas a base de datos | Nivel Función, Storage, CDN, Navegador |
-| Rápida Facturación DIAN | Emisión - Presentación PDF en pantalla | 8 segundos (incluyendo la creación del adquiriente con solo 3 datos) |
-| WooCommerce | Gestión de Inventario en Tiempo real | Conectado a World Office |
-| Cloud | Costos Infraestructura | Híbridos AWS - GCP |
-
-## 🛠️ Proyectos Destacados
-
-### Integración E-commerce y ERP
-- **Objetivo**: Sincronización WooCommerce - World Office (Software contable colombiano)
-- **Tecnologías**: Firebase, Node.js
-- **Resultados**: 
-  - Gestión de inventario en tiempo real
-  - Optimización de picking en almacenes
-  - Integración automática con contabilidad
-
-### Sistema de Facturación Electrónica DIAN
-- **Innovación**: Creación de adquirientes con datos mínimos
-- **Eficiencia**: Firma de documentos XML en 8 segundos
-- **Escalabilidad**: Arquitectura cloud-native
 
 ## 🌐 Experiencia Cloud
 
@@ -51,8 +29,9 @@ Desarrollos que integran de Picking, WooCommerce, Facturación Electrónica y ar
 |-----------|-------------|
 | Backend | Node.js |
 | Cloud | GCP, AWS, Serverless |
-| Bases de Datos | • SQL Server _(World Office Software Contable Colombiano)_<br>• MS Access - _VBA_<br>• Firestore<br>• Firebase Realtime <br>• MySQL - MariaDB _(WordPress)_ |
+| Bases de Datos | • SQL Server _(World Office - Software Contable Colombiano)_<br>• MS Access AVANZADO + _VBA_<br>• Firestore<br>• Firebase Realtime <br>• MySQL - MariaDB _(WordPress - WooCommerce)_ |
 | Metodologías | Agile, Kanban |
+| Control de versiones | GIT - GitHub |
 
 ## 🎓 Formación Continua
 
