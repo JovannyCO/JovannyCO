@@ -61,5 +61,4 @@ Apasionado del ciclismo (ruta y MTB), encuentro en este deporte una fuente de in
 | Estadística | Visualización |
 |-------------|---------------|
 | Lenguajes Más Usados | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovannyCO&layout=compact)](https://github.com/JovannyCO) |
-| Racha de Contribuciones | [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=JovannyCO)](https://github.com/JovannyCO) |
 | Trofeos | [![Trophy](https://github-profile-trophy.vercel.app/?username=JovannyCO)](https://github.com/JovannyCO) |
