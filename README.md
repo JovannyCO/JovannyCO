@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jovanny Medina Cifuentes
 
-## 👨‍💻 Desarrollador de Software - Aplicaciones empresariales en Colombia
+## 👨‍💻 Desarrollador de Software Backend
 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
