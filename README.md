@@ -172,7 +172,7 @@ La principal diferencia entre SEO y AEO radica en su enfoque:
 
 He notado que la tendencia hacia búsquedas "zero-click" o sin clic, donde el usuario obtiene la respuesta directamente en la página de resultados sin necesidad de visitar un sitio web, está ganando terreno. Google está implementando avances basados en IA generativa como Search Generative Experience, permitiendo a los usuarios encontrar respuestas sin entrar en distintas webs.
 
-Considerando que sobre el 25% de las interacciones entre individuos y tecnología se efectúan mediante la voz, y ante los millones de usuarios de asistentes vocales (incluidos aquellos basados en ChatGPT), la relevancia de la Optimización para Asistentes de Voz (AEO) en las estrategias de marketing digital se intensifica. Consecuentemente, resulta imperativo que el área de desarrollo backend se mantenga actualizada respecto a las nuevas buenas prácticas en la escritura del código destinado a la automatización de contenido.
+Considerando que sobre el 25% de las interacciones entre individuos y tecnología se efectúan mediante la voz, y ante los millones de usuarios de asistentes vocales (incluidos aquellos basados en ChatGPT), la relevancia de la Optimización para Motores de Respuesta (AEO) en las estrategias de marketing digital se intensifica. Consecuentemente, resulta imperativo que el área de desarrollo backend se mantenga actualizada respecto a las nuevas buenas prácticas en la escritura del código destinado a la automatización de contenido.
 
 **Métricas de éxito para AEO**:
 - **Citaciones en respuestas de IA**: Monitorear cuántas veces nuestro contenido es citado por herramientas como ChatGPT o Gemini.
