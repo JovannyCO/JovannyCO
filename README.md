@@ -11,9 +11,9 @@
 
 ## 💼 Resumen Profesional
 
-Desarrollador Backend con más de 25 años de experiencia en la creación de soluciones de software robustas y eficientes. Actualmente, me especializo en el desarrollo de aplicaciones empresariales que integran Picking, WooCommerce y Facturación Electrónica, utilizando arquitecturas cloud optimizadas para costos (GCP y AWS).
+Desarrollador Backend con más de 25 años de experiencias en soluciones de software e integraciones. Actualmente, trabajo con aplicaciones empresariales para integrar integrar Picking, WooCommerce y Facturación Electrónica, utilizando arquitecturas cloud optimizadas para costos y concurrencia (GCP y AWS).
 
-**Logros Destacados:**
+**En mi vidaa pasada:**
 *   Diseñé y desarrollé **[InfoGAS]**, una aplicación de escritorio (MS Access + SQL Server) para la gestión de pedidos de GLP. Implementada durante 9 años en los principales Call Centers de empresas de GLP en Colombia (Colgas, Asogas, Unigas, entre otras).
 *   **[InfoGAS]** fue pionera en la optimización logística, permitiendo el envío de pedidos inmediatos a vehículos de reparto mediante SMS y datáfonos Verifone. Esto **redujo los tiempos de entrega a menos de 1 hora** en ciudades clave como Bogotá, Cali y Medellín, un avance significativo en la época.
 *   Experiencia actual en la integración de sistemas _(vía ODBC)_ y desarrollo de soluciones serverless costo-eficientes.
