@@ -62,9 +62,9 @@
 
 ## 🎓 Formación Continua
 
-- Análisis y Desarrollo de Software
-- Arquitecturas serverless
-- Inteligencia Artificial aplicada - Prompt Engineering y automatizaciones
+- Análisis y Desarrollo de Software - Actualmente.
+- Arquitecturas serverless - Cursos OnLine.
+- Inteligencia artificial aplicada, prompt engineering y automatizaciones - Cursos OnLine.
 
 ## 🤝 Colaboración
 
