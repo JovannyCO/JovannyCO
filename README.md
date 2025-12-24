@@ -54,7 +54,7 @@ Desarrollé **[InfoGAS]**, un sistema que conectaba los pedidos directamente con
 
 ## 🎯 SVP: Mi Producto Estrella Actual
 
-### Sistema de Visualización de Producción - La Evolución Natural de InfoGAS
+### Sistema de Visualización de Producción
 
 **¿Tu empresa tiene ISO 9001 o está en proceso de certificarse?**  
 **¿Necesitas control visual en tiempo real de tus órdenes de producción?**
@@ -135,7 +135,7 @@ Diseño soluciones en la nube donde **solo pagas por lo que usas**:
 - **Arquitecturas Serverless:** Pagas solo cuando tu sistema se está usando (no por estar "prendido")
 
 ### Bases de Datos y Sistemas
-- **SQL Server con World Office:** Conozco el software contable que usas en Colombia
+- **SQL Server con World Office:** Conozco uno de los software contable que más usan en Colombia las PyMEs
 - **WordPress / WooCommerce:** Tu tienda online funcionando perfectamente
 - **Microsoft Access Avanzado:** Sí, ese programa que pensabas que nadie más usaba - lo domino
 
@@ -165,7 +165,7 @@ No solo integro sistemas de terceros - creo soluciones propias como **SVP** cuan
 Explico tecnología en términos de negocio. No te abrumo con jerga técnica - te muestro cómo cada decisión impacta tus ingresos o costos.
 
 ### 3. Entiendo el Contexto Colombiano
-- Conozco World Office (el software contable que probablemente usas), porque funciona con MS Access, VBA y Procedimientos almacenados el MS SQL Server.
+- Conozco World Office a profundidad (uno de los software contable más usado en Colombia)
 - Sé cómo funciona la facturación electrónica con la DIAN
 - Entiendo los desafíos de hacer empresa en Colombia
 
@@ -206,12 +206,11 @@ No importa si tu negocio es de:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos_Profesionalmente-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jovannyCO/)
 [![Email](https://img.shields.io/badge/Email-proyectos@Jovanny.CO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:proyectos@Jovanny.CO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Agenda_una_Llamada-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573004080808)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Solo-Empresas-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573004080808)
 
 ---
 
-## 🎁 Consulta Inicial GRATIS
-
+## 🎁 Envía Consulta Inicial a proyectos@Jovanny.CO
 **Primera reunión sin costo ni compromiso:**
 - ☕ 30 minutos de tu tiempo
 - 🎯 Analizamos tu situación actual (ventas, producción, sistemas)
