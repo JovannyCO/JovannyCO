@@ -210,15 +210,11 @@ No importa si tu negocio es de:
 
 ---
 
-## 🎁 Envía Consulta Inicial a proyectos@Jovanny.CO
-**Primera reunión sin costo ni compromiso:**
-- ☕ 30 minutos de tu tiempo
-- 🎯 Analizamos tu situación actual (ventas, producción, sistemas)
-- 💡 Te digo si SVP es adecuado para tu empresa
-- 🔧 Te doy 2-3 ideas concretas para automatizar procesos
+## 👨🏻‍💻 Envía Consulta Inicial a proyectos@Jovanny.CO
+- 🎯 Indica la situación actual y objetivos: automatización de ventas, SVP producción, integración de sistemas...
+- 🔧 Ideas concretas para automatizar procesos
 - 📊 Estimamos tiempo y presupuesto real
 
-**Sin presión, sin letra pequeña, sin compromisos.**
 
 ---
 
@@ -232,7 +228,7 @@ No importa si tu negocio es de:
 | Producto actual estrella | SVP (Sistema de Visualización de Producción) |
 | Reducción típica de errores con SVP | Hasta 40% más rápido en completar órdenes |
 | Tecnologías dominadas | Node.js, GCP, AWS, Firebase, SQL Server, WordPress |
-| Aprendices SENA mentoreados | Múltiples generaciones |
+| Aprendices SENA en su empresa | Nuevas generaciones de desarrolladores |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovannyCO&layout=compact&theme=radical)](https://github.com/JovannyCO)
 
