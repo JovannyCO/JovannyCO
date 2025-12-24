@@ -24,23 +24,26 @@
 
 ### 🏆 InfoGAS: El Sistema que Revolucionó la Distribución de Gas en Colombia
 
-**El Problema Real:** Los pedidos de gas domiciliario tomaban **de 1 a 2 días** en llegar a los clientes debido a la falta de sistematización predictiva automática.
+**El Problema Real:** Los pedidos de gas domiciliario tomaban **de 1 a 2 días** en llegar a los clientes debido a la falta de sistematización predictiva.
 
 **Mi Innovación:** A principios de los años 2000, **[InfoGAS]** fue pionero en el envío de pedidos inmediatos al vehículo de reparto con mensajes de texto SMS *(inicialmente con **Avantel** y luego a través de internet con datáfonos Verifone, que imprimía al instante el pedido)*.
 
 **Resultado Transformador:** Facilitó entregas en **menos de 1 hora** *(en aquella época)*, en especial en **Bogotá** y otras ciudades de Colombia como **Cali, Medellín, Manizales, Pereira, Florencia, Tunja, Apartadó**, entre otras.
 
-**Impacto:** 9 años de funcionamiento continuo, revolucionando la experiencia del cliente en la industria del GLP colombiano (aún doy soporte técnico a empresas que usan [InfoGAS] en Colombia).
+**Impacto:** 9 años de funcionamiento continuo, revolucionando la experiencia del cliente en la industria del GLP colombiano (aún presto el servicio de soporte técnico a empresas que usan [InfoGAS] en Colombia).
 
 ---
 
-## 🛠️ Mis Herramientas de Trabajo
+## 🛠️ Mis Herramientas de Trabajo Actuales
+### IA - Orquestación de Habilidades de Agente (Agent Skills) 
+- Google Gemini
+- Claude Code 
 
-### 💻 Desarrollo Backend
+### 💻 Desarrollo de Software
 - **Node.js** - Mi framework principal
-- **APIs REST** - Conectando sistemas diversos
+- **APIs REST** - Conectando servicios
 - **Integraciones ODBC** - Uniendo sistemas antiguos con nuevos
-- **Arquitecturas Serverless** - Pagando solo por lo que se usa
+- **Arquitecturas Serverless** - Para pagar solo por lo que se usa
 
 ## 🌐 Experiencia Cloud - Actualmente
 
@@ -56,7 +59,7 @@
 | **Backend** | Node.js |
 | **Cloud** | GCP, AWS, Serverless |
 | **Bases de Datos** | • SQL Server *(World Office - Software Contable Colombiano)* • MS Access AVANZADO + *VBA* • Firestore • Firebase Realtime • MySQL - MariaDB *(WordPress - WooCommerce)* |
-| **Inteligencia Artificial** | • **Prompt Engineering** • GPTs personalizados en ChatGPT • Gems especializados en Gemini • **Instrucciones optimizadas en Perplexity** • Automatización de procesos con IA |
+| **Inteligencia Artificial** | • **Prompt Engineering** • **Context Engineering** • **Orquestación de Habilidades de Agente (Agent Skills)**  |
 | **Metodologías Agile** | Scrum, Kanban |
 | **Control de Versiones** | GitHub - AWS CodeCommit|
 
@@ -64,7 +67,7 @@
 
 - Análisis y Desarrollo de Software - Actualmente.
 - Arquitecturas serverless - Cursos OnLine.
-- Inteligencia artificial aplicada, prompt engineering y automatizaciones - Cursos OnLine.
+- Orquestación de Habilidades de Agente (Agent Skills) Inteligencia artificial.
 
 ## 🤝 Colaboración
 
