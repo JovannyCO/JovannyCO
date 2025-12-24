@@ -244,7 +244,7 @@ No importa si tu negocio es de:
 *"Un sistema que revolucionó la industria del GLP en Colombia y sigue funcionando después de 20 años"*  
 — **+10 empresas** confiaron en mi trabajo durante 9 años consecutivos
 
-**SVP (2024-Presente):**  
+**SVP (Presente):**  
 *"Sistema de visualización de producción que facilita el cumplimiento de ISO 9001 y mejora la coordinación en tiempo real"*  
 — **En implementación activa** en empresas que buscan excelencia operacional
 
