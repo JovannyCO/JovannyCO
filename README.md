@@ -1,4 +1,4 @@
-# 👋 Jovanny Medina Cifuentes
+# 💡 Jovanny Medina Cifuentes - Analista y Desarrollador de Software
 ## Automatizando las Ventas y Producción de Tu Empresa
 
 ![Jovanny-Medina-Cifuentes](https://github.com/user-attachments/assets/1a7511dd-7ae6-467d-9752-672265996db2)
