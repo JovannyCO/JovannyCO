@@ -1,5 +1,6 @@
-# 💡 Jovanny Medina Cifuentes - Analista y Desarrollador de Software
-## Automatizando las Ventas y Producción de Tu Empresa
+# 💡 Jovanny Medina Cifuentes
+## Analista y Desarrollador de Software
+### Automatizando las Ventas y Producción de Tu Empresa
 
 ![Jovanny-Medina-Cifuentes](https://github.com/user-attachments/assets/1a7511dd-7ae6-467d-9752-672265996db2)
 
@@ -271,13 +272,13 @@ R: Doy soporte continuo. No te dejo solo después de entregar el proyecto (como 
 R: Trabajo con empresas de todos los tamaños. Si tienes un desafío tecnológico, podemos hablar.
 
 **P: ¿SVP requiere pantallas especiales?**  
-R: No. Funciona con cualquier TV o monitor con conexión HDMI. Lo más común es usar Smart TVs económicas.
+R: No. Funciona con cualquier TV o monitor con conexión HDMI. Lo más común es iniciar con Smart TVs económicas - En caso de que tu operación no requiera pantallas industriales.
 
 ---
 
 ## 🔐 Compromiso de Confidencialidad
 
-Toda información de tu empresa se maneja con absoluta confidencialidad. Puedo firmar NDAs si tu proyecto lo requiere.
+Toda información de tu empresa se maneja con absoluta confidencialidad. Me compromento con **Acuerdos de No Divulgación** si tu proyecto lo requiere.
 
 ---
 
