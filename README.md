@@ -3,7 +3,7 @@
 ![Jovanny-Medina-Cifuentes](https://github.com/user-attachments/assets/1a7511dd-7ae6-467d-9752-672265996db2)
 
 
-## 🚀 Desarrollador Backend | Aumentando la velocidad de las ventas
+## 🚀 Analista y Desarrollador de Software | Aumentando la velocidad de las ventas
 
 > *"¡Conecta las ventas en línea e inventarios con la contabilidad en tiempo real!"*
 
