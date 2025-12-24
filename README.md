@@ -206,7 +206,7 @@ No importa si tu negocio es de:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos_Profesionalmente-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jovannyCO/)
 [![Email](https://img.shields.io/badge/Email-proyectos@Jovanny.CO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:proyectos@Jovanny.CO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Solo-Empresas-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573004080808)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp/Solo-Empresas-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573004080808)
 
 ---
 
