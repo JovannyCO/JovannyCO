@@ -230,7 +230,6 @@ No importa si tu negocio es de:
 | Tecnologías dominadas | Node.js, GCP, AWS, Firebase, SQL Server, WordPress |
 | Aprendices SENA en su empresa | Nuevas generaciones de desarrolladores |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovannyCO&layout=compact&theme=radical)](https://github.com/JovannyCO)
 
 ---
 
