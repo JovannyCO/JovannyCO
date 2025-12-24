@@ -272,7 +272,7 @@ R: No. Funciona con cualquier TV o monitor con conexión HDMI. Lo más común es
 
 ## 🔐 Compromiso de Confidencialidad
 
-Toda información de tu empresa se maneja con absoluta confidencialidad. Me compromento con **Acuerdos de No Divulgación** si tu proyecto lo requiere.
+Toda información de tu empresa se maneja con absoluta confidencialidad. Me compromento con **Acuerdos de No Divulgación** así tu proyecto NO lo requiera.
 
 ---
 
